@@ -1,0 +1,20 @@
+/* font-family: "Philosopher-Bold"; */
+@font-face {
+	font-family: "PhilosopherBold";
+	src:url(../fonts/Philosopher/Philosopher-Bold.ttf);
+}
+/* font-family: "Philosopher-BoldItalic"; */
+@font-face {
+	font-family: "PhilosopherBoldItalic";
+	src:url(../fonts/Philosopher/Philosopher-BoldItalic.ttf);
+}
+/* font-family: "Philosopher-Italic"; */
+@font-face {
+	font-family: "PhilosopherItalic";
+	src:url(../fonts/Philosopher/Philosopher-Italic.ttf);
+}
+/* font-family: "Philosopher-Regular"; */
+@font-face {
+	font-family: "PhilosopherRegular";
+	src:url(../fonts/Philosopher/Philosopher-Regular.ttf);
+}
